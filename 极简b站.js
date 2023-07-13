@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         极简b站—bilibili
 // @namespace    http://tampermonkey.net/
-// @version      1.2.3
+// @version      1.2.4
 // @description  极简b站是用来把b站伪装成文章 点击向前按钮可以来回切换 原始模式和伪装模式 灵感来源于 领导说我看视频不要被发现 如果有bug或想法邮箱联系我：guang_ming175@163.com
 // @author       向前  rational_stars
 // @match         *://*.bilibili.com/*
@@ -132,6 +132,7 @@
       );
 
     $("body").append(customDiv);
+    $("head").append($('<link rel="icon" href="https://cdn.jsdelivr.net/gh/rational-stars/picgo/favicon.ico">'));
     $("body").append($(' <link href="https://cdn.bootcdn.net/ajax/libs/animate.css/4.1.1/animate.min.css" rel="stylesheet"></link>'));
   }
   window.onload = function () {
