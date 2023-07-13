@@ -1,4 +1,4 @@
-# 极简b站
+# 极简b站 - 大胆摸鱼
 
 ##### 源于领导说我看视频不要被别人发现
 
@@ -14,15 +14,21 @@
 
 ##### 原始模式：
 
-![](https://cdn.jsdelivr.net/gh/rational-stars/picgo/%E5%8E%9F%E5%A7%8B%E6%A8%A1%E5%BC%8F.png)
+![](https://cdn.jsdelivr.net/gh/rational-stars/picgo/20230713085210.png)
 
 ##### 伪装模式
 
-![](https://cdn.jsdelivr.net/gh/rational-stars/picgo/%E4%BC%AA%E8%A3%85%E6%A8%A1%E5%BC%8F.png)
+![](https://cdn.jsdelivr.net/gh/rational-stars/picgo/20230713085618.png)
 
 ## ❓ 常见问题
 
 **使用中有任何问题或反馈意见，请在脚本反馈区提出。**或发送到邮箱：guang_ming175@163.com
+
+本项目脚本代码已开源GitHub 非常简单  
+
+欢迎参与开发讨论 ![](https://cdn.icon-icons.com/icons2/936/PNG/32/github-logo_icon-icons.com_73546.png)[](https://cdn.icon-icons.com/icons2/936/PNG/512/github-logo_icon-icons.com_73546.png)
+
+https://github.com/rational-stars/simple-bilibili
 
 ## 🔔 声明
 
